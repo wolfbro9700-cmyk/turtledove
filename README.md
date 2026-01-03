@@ -17,9 +17,9 @@ The TURTLEDOVE effort is about offering a new API to address this use case while
 
 **Chrome has been running [a FLEDGE Origin Trial since milestone 101 (March 2022)](https://groups.google.com/a/chromium.org/g/blink-dev/c/0VmMSsDWsFg/m/_0T5qleqCgAJ).  For details of the current design, see [the FLEDGE explainer](FLEDGE.md) or [the in progress FLEDGE specification](https://wicg.github.io/turtledove/).**
 
-The FLEDGE design draws on many discussions and proposals published during 2020, most notably:
+The FLEDGE design draw2020, most notably:
 *  The [original TURTLEDOVE](Original-TURTLEDOVE.md) from Chrome.
-*  [SPARROW](https://github.com/WICG/sparrow) from Criteo, which entered [WICG incubation jointly](https://discourse.wicg.io/t/advertising-to-interest-groups-without-tracking/4565) with TURTLEDOVE.
+*  [SPARROW](https://github.com/WICG/sparrow) from Criteo, which entered [WICG incubation jointly](htadvertising-to-interest-groups-without-tracking/4565) with TURTLEDOVE.
 *  [Outcome-based TURTLEDOVE](OUTCOME_BASED.md) and [Product-level TURTLEDOVE](PRODUCT_LEVEL.md) from RTB House.
 *  [Dovekey](https://github.com/google/ads-privacy/tree/master/proposals/dovekey) from Google Ads.
 *  [PARRROT](https://github.com/prebid/identity-gatekeeper/blob/master/proposals/PARRROT.md) from Magnite.
